@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+
+@theme {
+  
+  --color-Primary: #81b29a;
+  --text-Heading:40px;
+}
